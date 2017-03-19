@@ -1,0 +1,24 @@
+header,nav, article,footer{ display:block;font-family:Consolas}
+li{list-style-type:none}
+nav{float:left; width:200px;height:700px}
+nav li{ list-style-type:none;}
+article{display:table;width:900px; height:700px}
+article h1{text-align:left;margin:0;padding:0;font-size:34pt;}
+a {color:slategray}
+footer{text-align:center}
+footer p{margin:0;padding:0;}
+footer h1{margin:0;padding:0;}
+.quote{font-size:10pt}
+.html5{margin-bottom:10px; border:2px ridge black;}
+.blogdate{margin:0;padding:0;}
+.about{image-orientation: from-image;}
+.projs img.projectpics:hover{filter:grayscale(100%);}
+ nav a:hover{font-weight:bolder;font-size:20pt;}
+
+
+/*
+nav{background-color:teal}
+body{background-color:chartreuse}
+article{background-color:crimson}
+footer{background-color:purple}
+*/
